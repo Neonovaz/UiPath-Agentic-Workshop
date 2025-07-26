@@ -1,0 +1,28 @@
+
+--- Authentication Error Log 2025-07-26 12:52:10 ---
+[
+  {
+    "timestamp": "2025-07-26T07:22:09.358Z",
+    "message": "Authentication started",
+    "params": {
+      "code": "e8a5741d-ee46-4da8-b562-6f0fc7de1c07.EDB3D50E1E133CB86E5B35F24D5D6F23703569E8C188585AB5A858B0E2CB9484",
+      "scope": "offline_access OrchestratorApiUserAccess StudioWebBackend IdentityServerApi ConnectionService DataService DocumentUnderstanding EnterpriseContextService Directory JamJamApi LLMGateway LLMOps OMS RCS.FolderAuthorization TM.Projects TM.TestCases TM.Requirements TM.TestSets",
+      "state": "JC6dtP4gvXPqFQD3W2qYpUUksw_mWe6S1GG3fLB0dB8",
+      "iss": "https://staging.uipath.com/identity_"
+    }
+  }
+]
+
+--- Authentication Error Log 2025-07-26 13:00:52 ---
+[
+  {
+    "timestamp": "2025-07-26T07:30:51.658Z",
+    "message": "Authentication started",
+    "params": {
+      "code": "e8a5741d-ee46-4da8-b562-6f0fc7de1c07.3878C632C158C2FB8F2FDEBDBB5BBA81AB2CD98DB6513F30E80A3EF43AD7C418",
+      "scope": "offline_access OrchestratorApiUserAccess StudioWebBackend IdentityServerApi ConnectionService DataService DocumentUnderstanding EnterpriseContextService Directory JamJamApi LLMGateway LLMOps OMS RCS.FolderAuthorization TM.Projects TM.TestCases TM.Requirements TM.TestSets",
+      "state": "wG8Xawy3X-2z7b3jQeyH24Aev2GbwzBmtzMVueo0Eb0",
+      "iss": "https://staging.uipath.com/identity_"
+    }
+  }
+]

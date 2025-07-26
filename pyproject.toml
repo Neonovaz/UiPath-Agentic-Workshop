@@ -1,0 +1,10 @@
+[project]
+name = "MrSmith-agent"
+version = "0.0.1"
+description = "my-agent"
+authors = [{ name = "neonovaz", email = "agent@uipath.com" }]
+dependencies = [
+    "uipath-langchain>=0.0.106",
+    "langchain-anthropic>=0.3.8",
+]
+requires-python = ">=3.10"
